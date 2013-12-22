@@ -1,5 +1,5 @@
 {
-	"name": "Modern Media S3",
+	"name": "cdcarson/ModernMediaS3",
 	"description": "WordPress Plugin that automatically copies media uploads to Amazon S3 for storage and delivery.",
 	"require":{
 		"aws/aws-sdk-php": "2.*"
