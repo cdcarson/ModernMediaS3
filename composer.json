@@ -4,5 +4,10 @@
 	"type": "wordpress-plugin",
 	"require":{
 		"aws/aws-sdk-php": "2.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"ModernMedia\\": "src/"
+		}
 	}
 }
