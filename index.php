@@ -8,5 +8,4 @@ Version: 0.1
 Author URI: http://modernmedia.co
 */
 use ModernMedia\AWSS3\AWSS3Plugin;
-require_once __DIR__ . '/vendor/autoload.php';
 AWSS3Plugin::inst();
